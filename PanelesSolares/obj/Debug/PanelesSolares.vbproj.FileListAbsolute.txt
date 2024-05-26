@@ -1,0 +1,189 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\bin\Debug\PanelesSolares.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\bin\Debug\PanelesSolares.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\bin\Debug\PanelesSolares.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.Form2.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.Form3.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\PanelesSolares\PanelesSolares\obj\Debug\PanelesSolares.pdb
+E:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.exe
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.xml
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.pdb
+E:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.exe
+E:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.pdb
+E:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.xml
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.Form4.resources
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.editarelectro.resources
+E:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.borrarelectro.resources
+D:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.exe
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.xml
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.pdb
+D:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.exe
+D:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.pdb
+D:\PanelesSolares(anda)\PanelesSolares\bin\Debug\PanelesSolares.xml
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.borrarelectro.resources
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.editarelectro.resources
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.Form4.resources
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+D:\PanelesSolares(anda)\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+E:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+E:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+E:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+E:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.editarelectro.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+F:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+F:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+F:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+F:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.editarelectro.resources
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+F:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+D:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+D:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+D:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+D:\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Form1.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+E:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+D:\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcioneselectro.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+E:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+E:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+E:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcioneselectro.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+E:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+D:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+D:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+D:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+D:\agus\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcioneselectro.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+D:\agus\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcioneselectro.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+E:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcioneselectro.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+F:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcioneselectro.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+C:\Users\an47su\Desktop\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
+D:\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+D:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+D:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+D:\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe.config
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.exe
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.xml
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.pdb
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.exe
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.pdb
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\bin\Debug\PanelesSolares.xml
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarpanel.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.calcularConsumo.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.inicio.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.agregarelectro.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcioneselectro.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.Resources.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.opcionespanel.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.recomendacion.resources
+C:\Users\an47su\Desktop\-\prendrive\paneles solares final\proyectofinalpaneles\PanelesSolares\obj\Debug\PanelesSolares.vbproj.GenerateResource.Cache
